@@ -21,7 +21,7 @@ export const aboutData = {
   img: 'profile.jpeg',
   paragraphOne: 'I have been an engineer for over 10 years. I have a passion for solving difficult problems and building apps or websites. ',
   paragraphTwo: ' When im not coding, I enjoy relaxing with family and friends, watching or playing sports, working out and traveling. ',
-  paragraphThree: 'Hire me and less make the World a better place... ',
+  paragraphThree: 'Hire me and lets make the World a better place! ',
   resume: 'https://www.docdroid.net/Ts7bvup/ajs-software-engineering-resume-docx', // if no resume, the button will not show up
 };
 
@@ -73,7 +73,6 @@ export const projectsData = [
     repo: 'https://github.com/sandeepnukala1/ga-grad-app-frontend', // if no repo, the button will not show up
   },
 ];
-
 
 // SKILL DATA 
 
